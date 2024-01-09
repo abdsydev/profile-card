@@ -14,15 +14,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://github.com/abdsydev/column-preview-card](https://github.com/abdsydev/column-preview-card)
-- Live Site URL: [https://abdsydev.github.io/column-preview-card/](https://abdsydev.github.io/column-preview-card/)
+- Solution URL: [https://github.com/abdsydev/profile-card](https://github.com/abdsydev/profile-card)
+- Live Site URL: [https://abdsydev.github.io/profile-card/](https://abdsydev.github.io/profile-card/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Flex-Box
 
 ## Author
 
