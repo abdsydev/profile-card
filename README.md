@@ -27,4 +27,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Website - [Abdullah Sayed](https://abdsy.netlify.app/)
 - Frontend Mentor - [@abdsydev](https://www.frontendmentor.io/profile/abdsydev)
-- Twitter - [@yourusername](https://twitter.com/abdsy_)
+- Twitter - [@abdsy_](https://twitter.com/abdsy_)
